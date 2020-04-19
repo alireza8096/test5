@@ -8,5 +8,6 @@ public class Main {
         int x = 1;
         if (x == 1) System.out.println("x = 1");
         if (x == 1) System.out.println("x == 1");
+        System.out.println("master");
     }
 }
